@@ -1,2 +1,2 @@
-Some Text in the TextOneFile.txt
+
 Some Text in the TextOneFile.txt
